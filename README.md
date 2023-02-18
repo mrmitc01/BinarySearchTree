@@ -10,6 +10,7 @@ binarySearchTree.py - to output one of three different datasets formatted as an 
                       and the values of its left child, right child, and parent; also outputs the maximum and minimum values
                       in the tree, the tree traversed in order, the tree traversed in pre order, the tree traversed in post
                       order, and the tree with a node deleted traversed in order
+                      
 data - a folder containing three datasets, each of which has a column of values; only one of these datasets is used in the 
        program; if a different data is desired, simply change the name of the csv file at the top of the code in file = open()
   - test1.csv
